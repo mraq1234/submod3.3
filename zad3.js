@@ -1,0 +1,1 @@
+const average = (...args) => args.reduce((sum, item) => sum + item) / args.length;
